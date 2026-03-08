@@ -21,7 +21,7 @@ Cross-Origin Security: Fully configured CORS headers on AWS to allow secure comm
 
 Installation and Setup
 Clone the repository:
-git clone https://github.com/Sakshichou/civic-trust-hub-2d0af5b4.git
+git clone https://github.com/Sakshichou/aiforbharat.git
 
 Frontend Setup:
 npm install
