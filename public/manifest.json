@@ -1,0 +1,17 @@
+{
+  "name": "Civic-Trust",
+  "short_name": "CivicTrust",
+  "description": "Verified civic reporting for transparent governance",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#001f3f",
+  "theme_color": "#001f3f",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "/favicon.ico",
+      "sizes": "64x64",
+      "type": "image/x-icon"
+    }
+  ]
+}
